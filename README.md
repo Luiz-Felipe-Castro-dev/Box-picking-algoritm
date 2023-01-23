@@ -12,7 +12,7 @@ This algoritm automatically uses a list of boxes to create the ideal box combina
 
 # Português
 
-Este algoritmo automaticamente usa uma lista de caixas para criar uma combinação de caixas ideais para comportar um volume dado como parametro para o algoritmo de forma 
+Este algoritmo automaticamente usa uma lista de caixas para criar uma combinação de caixas ideais para comportar um volume dado como parâmetro para o algoritmo de forma 
 a minimizar espaço não preenchido dentro da caixa e numero de caixas.
 
 
